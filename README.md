@@ -1,6 +1,5 @@
 # Aula Tabela
 Projeto para exemplificar o uso de tabelas usando HTML.
-<<<<<<< HEAD
 
 ## Tabela Referência
 
